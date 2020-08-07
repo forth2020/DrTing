@@ -1,0 +1,82 @@
+Footsteps in an Empty Valley - NC4000 Single Chip Forth Engine - Fourth Edition - 2017
+4001-footstepsFinal.pdf
+
+Inside Forth - Fourth Edition - 2013
+1003_InsideF83.pdf
+
+Systems Guide to figForth - Third Edition - 2013
+1010_SystemsGuideToFigForth.pdf
+
+eForth and Zen - Second Edition - 2013
+1013_eForthAndZen.pdf
+
+F# - 241
+2151_F#241.zip
+
+ADUC Compiler - 520
+2152_ADuCcompiler520.zip
+
+eForth for SAM7 Chip - 2008
+2153_sam7ef.zip
+
+cEF, eForth in C, Version 1.1 - 2009
+2154_c_eforth_11.zip
+
+cEF, eForth in C - 2009
+2155_c_eforth_10.zip
+
+eForth for STM8S - 2010
+2157_stm8ef.zip
+
+eP32 Microcontroller Design in VHDL - 2012
+2158_ep32q_xp2.zip
+
+328eForth for Arduino Uno - 2011
+2159_328eforth.zip
+
+eForth as an Arduino Sketch, Version 2.0 - 2011
+2162_ceForth_328.zip
+
+eP16 Microcontroller Design in VHDL - 2012
+2163_eP16VHDL.zip
+
+430eForth for LaunchPad - 2012
+2164_430eForth_3.zip
+
+STM32 eForth - 2014
+2165_stm32eForth720.zip
+
+Zen of LaunchPad - Version 4.3 - 2015
+2166_430eForth_v43.zip
+
+86eForth - Version 2.03 - 2016
+2167-86ef203.zip
+
+ep8080 - 2006
+2169-ep8080.zip
+
+PDP1 Design Workshop - 2016
+2170-pdp1.zip
+
+86eForth - Version 5.2 - 2016
+2171-86eforth502.zip
+
+espForth for ESP8266
+2172-espForth_44.zip
+
+ceForth_23
+2173-ceForth_23.zip
+
+---
+
+2174-esp32Forth_54_SerialMonitor.zip
+esp32Forth Serial Monitor
+
+2175-esp32forth_59_webBrowser.zip
+esp32Forth Web Browser
+
+2176-esp32Forth_62_macroAssembler.zip
+esp32Forth Macro Assembler
+
+2177-ceForth_33_macroAssemblerVS2019.zip
+ceForth_33 Macro Assembler
